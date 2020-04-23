@@ -1,0 +1,8 @@
+Lab 2 - Interactive Systems - Laia Auset Rizo - 207345
+
+In this document I will explain the extra funcionalities that I have implemented in the Unity project. 
+
+First, when finishing implementing the Sheeps and all functions related to them, I created the part where when you hit a Sheep with a Hay Bale, the sheep dies and releases a heart object. This object is called Heart and has a Rotation and different implementations. 
+
+I also implemented music, because its a better, and funny way to play the game! 
+
